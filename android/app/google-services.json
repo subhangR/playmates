@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "950357345761",
+    "firebase_url": "https://playmates-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "playmates-app",
+    "storage_bucket": "playmates-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950357345761:android:af446d6adae39d29ce7ea0",
+        "android_client_info": {
+          "package_name": "com.example.playmates_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950357345761-rdh9sr9kcpo0tsenb8ka4hguftopk0u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyWw4kC3_gQrNagZiIKiSJ8dFqE5NpPoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950357345761-rdh9sr9kcpo0tsenb8ka4hguftopk0u3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "950357345761-ssie5bk5mf0tn4tbc9q3g90opujcrn4u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.playmatesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950357345761:android:87746cc59b08215bce7ea0",
+        "android_client_info": {
+          "package_name": "com.playmates.playmates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950357345761-rdh9sr9kcpo0tsenb8ka4hguftopk0u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyWw4kC3_gQrNagZiIKiSJ8dFqE5NpPoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950357345761-rdh9sr9kcpo0tsenb8ka4hguftopk0u3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "950357345761-ssie5bk5mf0tn4tbc9q3g90opujcrn4u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.playmatesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
